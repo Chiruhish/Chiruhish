@@ -3,8 +3,8 @@
 🚀 Data Scientist & Consultant with a passion for AI/ML and Data Engineering  
 📍 Melbourne, Victoria  
 📧 Email: chiragmd482@gmail.com  
-🔗 LinkedIn: [chiragmd](https://www.linkedin.com/in/chiragmd/)  
-👨‍💻 GitHub: [chiragmd](https://github.com/chiragmd)
+🔗 LinkedIn: [Chirag_MD](https://www.linkedin.com/in/chiragmd/)  
+👨‍💻 GitHub: [Chirag MD](https://github.com/Chiruhish)
 
 ---
 
