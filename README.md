@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Chirag!  
 
-🚀 Data Scientist & Consultant with a passion for AI/ML and Data Engineering  
+🚀 Data Scientist & Data consultant with a passion uncovering patterns and telling stories through data.  
 📍 Melbourne, Victoria  
 📧 Email: chiragmd482@gmail.com  
 🔗 LinkedIn: [Chirag_MD](https://www.linkedin.com/in/chiragmd/)  
