@@ -36,7 +36,7 @@ I am a Data Scientist with hands-on experience in Machine Learning, Data Enginee
 ## Tech Toolbox 🧰  
 - **Languages**: Python, R, SQL  
 - **Libraries & Frameworks**: Numpy, Pandas, Scikit-learn, Keras, Plotly, XGBoost, Flask  
-- **Tools**: AWS, Kafka, Power BI, Airflow  
+- **Tools**: AWS, Kafka, Power BI, Airflow,GenAI  
 
 ---
 
