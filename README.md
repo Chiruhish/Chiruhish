@@ -15,28 +15,21 @@ I am a Data Scientist with hands-on experience in Machine Learning, Data Enginee
 
 ## Professional Highlights 🌟  
 - **Consultant (Data and Analytics) - Keyence**, Bangalore, India (2022 - 2023)  
-  Enhanced anomaly detection and computational efficiency through innovative ML solutions, including DBSCAN-based clustering and real-time data pipelines on AWS.
-  
+   Developed an ML-based defect detection system for steel production, achieving **98.75% accuracy** and reducing operational time by **35%**, saving the client **$500K annually**.   
+
+---
+
 - **Consultant (User Experience & Research) - Nabler**, (2021)  
-  Optimized Conversion Rates and Enhanced User Experience for Major US University  
-
-  Leveraged advanced data analysis techniques, including **A/B testing**, **heat maps**, and **user feedback**, to drive a significant improvement in user engagement and conversion rates for a leading US university’s digital platform.  
-
-  - ✅ **20% increase in user engagement** and **15% boost in conversion rates** through A/B testing and checkout process optimization.  
-  - ✅ Identified and resolved pain points in the navigation flow using session recordings and heat maps, reducing bounce rates by **25%**.  
-  - ✅ Streamlined site features and refined the user experience based on customer feedback, leading to a **30% rise in form completions** and enhanced user satisfaction.  
-  - ✅ Partnered with the UX team to implement data-driven changes, achieving a **40% improvement in conversion rates** and directly supporting the university's strategic growth objectives.  
-
-  **🔎 Data-driven insights + UX collaboration = Enhanced user satisfaction and growth**  
+   Improved user engagement and conversion rates for a major US university using A/B testing, heat maps, and user feedback. Delivered a **20% increase in engagement** and a **15% rise in conversion rates** by optimizing the user journey.   
 
 ---
 
 ## Key Projects 🛠️  
 - **Jobber.com - Royal Melbourne Institute of Technology** (2023)  
-  Built a job search platform using Flask and machine learning models to classify job listings, achieving an 82% accuracy with Word2Vec embeddings.
+   Built a job search platform using Flask and machine learning models to classify job listings, achieving an **82% accuracy** with Word2Vec embeddings.
   
 - **Movie Recommendation System - Royal Melbourne Institute of Technology** (2023)  
-  Created a personalized recommendation system leveraging collaborative filtering and SVD, significantly improving recommendation accuracy.
+   Created a personalized recommendation system leveraging collaborative filtering and SVD, significantly improving recommendation accuracy.
 
 ---
 
@@ -49,7 +42,7 @@ I am a Data Scientist with hands-on experience in Machine Learning, Data Enginee
 
 ## Education 🎓  
 - **MS in Data Science**, Royal Melbourne Institute of Technology (Expected 2025)  
-- **Bachelors in Computer Science**, [University Name] (Year)
+- **Bachelors in Computer Science**, National institute of engineering (2022)
 
 ---
 
@@ -60,5 +53,4 @@ I am a Data Scientist with hands-on experience in Machine Learning, Data Enginee
 ---
 
 🔗 Let's collaborate on how data can drive maximum growth and innovation — feel free to reach out so that we can together craft a story through data!
-
 
