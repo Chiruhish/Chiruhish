@@ -18,15 +18,16 @@ I am a Data Scientist with hands-on experience in Machine Learning, Data Enginee
   Enhanced anomaly detection and computational efficiency through innovative ML solutions, including DBSCAN-based clustering and real-time data pipelines on AWS.
   
 - **Consultant (User Experience & Research) - Nabler**, (2021)  
-  Optimized Conversion Rates and Enhanced User Experience for Major US University
+  Optimized Conversion Rates and Enhanced User Experience for Major US University  
 
-Leveraged advanced data analysis techniques, including A/B testing, heat maps, and user feedback, to drive a significant improvement in user engagement and conversion rates for a leading US university’s digital platform.
+  Leveraged advanced data analysis techniques, including **A/B testing**, **heat maps**, and **user feedback**, to drive a significant improvement in user engagement and conversion rates for a leading US university’s digital platform.  
 
-✅ 20% increase in user engagement and 15% boost in conversion rates through A/B testing and checkout process optimization.
-✅ Identified and resolved pain points in the navigation flow using session recordings and heat maps, reducing bounce rates by 25%.
-✅ Streamlined site features and refined the user experience based on customer feedback, leading to a 30% rise in form completions and enhanced user satisfaction.
-✅ Partnered with the UX team to implement data-driven changes, achieving a 40% improvement in conversion rates and directly supporting the university's strategic growth objectives.
-🔎 Data-driven insights + UX collaboration = Enhanced user satisfaction and growth 
+  - ✅ **20% increase in user engagement** and **15% boost in conversion rates** through A/B testing and checkout process optimization.  
+  - ✅ Identified and resolved pain points in the navigation flow using session recordings and heat maps, reducing bounce rates by **25%**.  
+  - ✅ Streamlined site features and refined the user experience based on customer feedback, leading to a **30% rise in form completions** and enhanced user satisfaction.  
+  - ✅ Partnered with the UX team to implement data-driven changes, achieving a **40% improvement in conversion rates** and directly supporting the university's strategic growth objectives.  
+
+  **🔎 Data-driven insights + UX collaboration = Enhanced user satisfaction and growth**  
 
 ---
 
@@ -58,4 +59,6 @@ Leveraged advanced data analysis techniques, including A/B testing, heat maps, a
 
 ---
 
-🔗 Let's collaborate on how data can drive maximum growth and innovation , feel free to reachout so that we can together craft a story through data!
+🔗 Let's collaborate on how data can drive maximum growth and innovation — feel free to reach out so that we can together craft a story through data!
+
+
